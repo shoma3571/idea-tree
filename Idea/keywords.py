@@ -5,8 +5,8 @@ from . import views
 from . import same
 
 api = "http://wordassociator.ap.mextractr.net/word_associator/api_query?query={word}"
-user_name = "MARCY"
-password = "Marcy1003"
+user_name = "x"
+password = "x"
 
 def rand_ints_nodup(a, b, k):
   ns = []
